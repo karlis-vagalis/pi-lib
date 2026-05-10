@@ -1,0 +1,16 @@
+{
+  "name": "@kvagalis/pi-lib",
+  "keywords": [
+    "pi-package"
+  ],
+  "type": "module",
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ]
+  },
+  "peerDependencies": {
+    "typescript": "^5",
+    "@earendil-works/pi-coding-agent": "^0.74.0"
+  }
+}
