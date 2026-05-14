@@ -10,7 +10,8 @@
     ]
   },
   "peerDependencies": {
-    "typescript": "^5",
-    "@earendil-works/pi-coding-agent": "^0.74.0"
+    "@anthropic-ai/sandbox-runtime": "^0.0.51",
+    "@earendil-works/pi-coding-agent": "^0.74.0",
+    "typescript": "^5"
   }
 }
